@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.fastcareertraining.com/sitemap.xml
+
+##LLMS reference for internal tracking
+##LLMS: 
+
+Sitemap: 
